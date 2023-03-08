@@ -1,7 +1,7 @@
  <div>
-   <a href="https://github.com/pedrodevdobro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodevdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodevdobro&layout=compact&langs_count=6&theme=synthwave"/>
+   <a href="https://github.com/pedro-h-barbosa">
+   <img height="180em"src="https://githubreadmestats.vercel.app/apiusername=pedrodevdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-h-barbosa&layout=compact&langs_count=6&theme=synthwave"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -20,6 +20,6 @@
    <a href="mailto:pedroquis82@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-416324220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/pedrodevdobro/pedrodevdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/pedro-h-barbosa/pedro-h-barbosa/blob/output/github-contribution-grid-snake.svg)
 
 </div>
